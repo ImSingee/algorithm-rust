@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "leetcode-1381-design-a-stack-with-increment-operation",
+    "leetcode-394-decode-string",
+]
